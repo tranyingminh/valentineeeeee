@@ -1,5 +1,5 @@
 const nameGirl = 'Chó Ngọc mỏ hỗn';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'https://tranyingminh.github.io/valentineeeeee/';
 const eventName = 'Chức mừng Valentine';
 const titleCard = 'Thí Ngọc đáng iu';
 const contentCard = 'Chúc em bé Thí Ngọc Valentine thiệt là dui dẻ, chờ em bé của anh lên sì gòn mình cùng nhau đi cháy phố nèo... Iu emmmm♥♥♥';
